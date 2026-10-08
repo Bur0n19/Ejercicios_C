@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    printf("Mi muisito es una mugosaaaaa!\n");
+    printf("Hola mundo\n");
 
     return 0;
 }
